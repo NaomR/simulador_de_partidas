@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simulador_de_jogos</string>
+    <string name="cd_start_simulation">Botão de iniciar Simulação</string>
+    <string name="cd_home_team">Imagem do time da casa</string>
+    <string name="cd_away_team">image do time visitante</string>
+</resources>
